@@ -1,6 +1,6 @@
 # functional-programming-java
 
-- Practices to learn functional programming in JAVA.
+Practices to learn functional programming in JAVA.
 - Imperative Approach
 - Declarative Approach
 - Java Util Function Package
